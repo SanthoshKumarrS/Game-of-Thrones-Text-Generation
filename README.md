@@ -12,9 +12,15 @@ You are provided with got1: you have to perform a step-by-step NLP approach to g
 # Steps Taken :
 
 👉 Loading dataset
+
 👉 Data Preparation
+
 👉 Tokenization and vectorization
+
 👉 Building a Deep learning model (LSTM) to predict the next word from the sequences
+
 👉 Model has high loss
+
 👉 Finetuning with gpt2
+
 👉 Results have low losses
